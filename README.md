@@ -49,11 +49,9 @@ Desarrollo aplicaciones web modernas con foco en rendimiento, experiencia de usu
 
 ---
 
-<p align="center">
-Siempre construyendo cosas nuevas 🚀
-</p>
+
 
 ---
 
-<h3 align="center">Siempre construyendo, aprendiendo y mejorando 🚀</h3>
+<h3 align="center">Siempre construyendo, aprendiendo y mejorando </h3>
 -->
