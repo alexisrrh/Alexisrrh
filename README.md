@@ -43,12 +43,19 @@ Desarrollo aplicaciones web modernas con foco en rendimiento, experiencia de usu
 
 ## Contacto
 
-📧 Email: alexisrrh123@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/alexisrrh
-🌐 Portfolio: https://portafolio-alexis-chi.vercel.app/  
+<p align="center">
+  <a href="mailto:alexisrrh123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alexisrrh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
----
-
+  <a href="https://portafolio-alexis-chi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 
 ---
