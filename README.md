@@ -14,23 +14,7 @@ Desarrollo aplicaciones web modernas con foco en rendimiento, experiencia de usu
 - 🤖 Interesado en IA, automatización y apps móviles
 - 📚 Siempre aprendiendo y mejorando
 
----
-
-## Proyectos
-
-### 🥗 NutriSmart Coach
-App fitness con IA para análisis de comidas, generación de dietas, rutinas y seguimiento corporal.
-
-**Stack:** React, Vite, Tailwind, Node.js, Express, Supabase, Gemini AI
-
----
-
-### 🎬 VHSFlix
-Plataforma de películas con autenticación, favoritos, trailers y perfiles de usuario.
-
-**Stack:** React, Vite, Flask, SQLAlchemy, JWT, TMDB API
-
----
+  Todos mis proyectos puedes verlo en mi portafolio : https://portafolio-alexis-chi.vercel.app/
 
 # Tecnologías
 
@@ -59,9 +43,9 @@ Plataforma de películas con autenticación, favoritos, trailers y perfiles de u
 
 ## Contacto
 
-📧 Email: tuemail@gmail.com  
-💼 LinkedIn: tu-linkedin  
-🌐 Portfolio: tu-portfolio  
+📧 Email: alexisrrh123@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/alexisrrh
+🌐 Portfolio: https://portafolio-alexis-chi.vercel.app/  
 
 ---
 
